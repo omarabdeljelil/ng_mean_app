@@ -5,3 +5,11 @@
 mat-spinner{
     margin: auto;
 }
+.post-image {
+    width: 25%;
+    margin: auto;
+}
+.post-image img{
+    width: 100%;
+    box-shadow: 1px 1px 5px black;
+}
